@@ -1,6 +1,9 @@
 # part2-chapter1
 
 ## 웹툰앱
+
+![Screenshot_20231120_155737](https://github.com/soommmin/part2-chapter1/assets/150005268/4d39e700-0c1e-4f17-a194-46ee8f3c94ed)
+![Screenshot_20231120_155807](https://github.com/soommmin/part2-chapter1/assets/150005268/509daaa0-b148-40de-b286-6da82eb7d466)
 ## what i learned
 1. WebView 사용하기
 2. ViewPager2 사용하기
